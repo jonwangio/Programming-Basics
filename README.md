@@ -53,20 +53,20 @@
 
  Before going to *Colab*, you need a *Google/Gmail* account. Once you create and login in *Colab* with your account, you will immediately see an interface below in your browser:
 
- <p align="center"><img src="/fig/0.png" width="450" heigth="250"></p>
+ <p align="center"><img src="/fig/0.png" width="800" heigth="450"></p>
 
  On this page, you can familiarize yourself with the panels of the main menu, the table of contents and programming/coding cells. You will be mainly working in the panel of programming/coding cells, where you can write either *Python* codes or texts in each cell.
 
  In order to work with codes I prepared for you, you can simply **open** the notebook in this *GitHub* repository by providing the link to *Colab*. Click **File** > **Open notebook**, you will see dialogue box below:
 
- <p align="center"><img src="/fig/1.png" width="450" heigth="250"></p>
+ <p align="center"><img src="/fig/1.png" width="800" heigth="450"></p>
 
  Copy and paste the address of this *GitHub* repository at *https://github.com/jonwangio/Programming-Basics*, and hit **enter**, you will find the *Jupyter Notebook* listed. **Double click** to select the listed notebook, you are now totally set with your programming environment! As you can see sections prepared for you shown below:
 
- <p align="center"><img src="/fig/2.png" width="450" heigth="250"></p>
+ <p align="center"><img src="/fig/2.png" width="800" heigth="450"></p>
 
- <p align="center"><img src="/fig/3.png" width="450" heigth="250"></p>
+ <p align="center"><img src="/fig/3.png" width="800" heigth="450"></p>
 
- <p align="center"><img src="/fig/4.png" width="450" heigth="250"></p>
+ <p align="center"><img src="/fig/4.png" width="800" heigth="450"></p>
 
  As been said, feel free to modify, delete, and add the programs to get the most out of your hands-on experience. Enjoy programming!
