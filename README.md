@@ -71,4 +71,4 @@
 
  <p align="center"><img src="/fig/4.png" width="800" heigth="450"></p>
 
- As been said, feel free to modify, delete, and add the programs to get the most out of your hands-on experience. Enjoy programming!
+ Follow the instructions in the notebook and play with the sample codes. As been said, please DO feel free to modify, delete, and add the programs to get the most out of your hands-on experience. Enjoy programming!
