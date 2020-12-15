@@ -1,3 +1,5 @@
+ <p align="center"><img src="/fig/1.png" width="800" heigth="155"></p>
+
  # Programming Basics
 
  ### A introductory session for programming based data analysis
