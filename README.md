@@ -1,4 +1,4 @@
- <p align="center"><img src="/fig/1.png" width="800" heigth="155"></p>
+ <p align="center"><img src="/fig/itc.png" width="800" heigth="155"></p>
 
  # Programming Basics
 
