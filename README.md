@@ -4,7 +4,7 @@
 
  ### A introductory session for programming based data analysis
 
- ##### This session is designed for supporting the technical components of the course UPM_1: ***Planning Sustainable Cities (2020-1B)***, Department of Urban and Regional Planning and Geo-Information Management, Faculty Geo-Information Science and Earth Observation, University of Twente, Netherlands. Should you find the details of the course at https://canvas.utwente.nl/courses/6184.
+ ##### This session is designed for supporting the technical components of the course UPM_1: ***Planning Sustainable Cities (2021-1B)***, Department of Urban and Regional Planning and Geo-Information Management, Faculty Geo-Information Science and Earth Observation, University of Twente, Netherlands. Should you find the details of the course at https://canvas.utwente.nl/courses/8456.
 
  ##### Dr. Jiong (Jon) Wang,  j.wang-4@utwente.nl
 
@@ -17,6 +17,7 @@
 
  To ensure that you can immediately benefit from those largest programming communities, we will start to learn programming by using *Python*, one of the most popular high level programming language today. While using *python*, you need to keep in mind that your purpose is to capture the feeling about programming, instead of just learning *Python*. In the following content, we will walk through some of the basic elements and features that lead you to define your own functions. You will apply the learnt skills to accomplish two challenges. Specifically, you will see:
 
+ - Warming up: First program
  - 0. Values, variables and naming conventions
  - 1. Expressions
  - 2. Functions
@@ -27,24 +28,25 @@
  - 7. Visualization
  - 8. Challenge 1: working with point datasets
  - 9. Challenge 2: working with raster datasets
+ - 10.Challenge 3: working with classification on raster datasets
 
- There can be quite a steep learning curve while you walk through the content, so please alway keep in mind that it is very impornt and efficient to get hands on experience while learning programming. DO NOT just sit back and read the codes, DO modify and rewrite, and check the difference.
+ There can be quite a steep learning curve while you walk through the content, so please always keep in mind that it is very important and efficient to get hands on experience while learning programming. DO NOT just sit back and read the codes, DO modify and rewrite, and check the difference.
 
  ##### Credit
  -------------------
  You're very welcome to use the content of this page for teaching and learning. Credit to this work can be given as:
  ~~~
- J. Wang, Programming Basics: A introductory session for programming based data analysis (2020), GitHub repository,
+ J. Wang, Programming Basics: A introductory session for programming based data analysis (2021), GitHub repository,
  https://github.com/wonjohn/Bayes_for_Regression
  ~~~
 
- Apart from the two **Challenges**, the contents on this page is largely based upon Allen Downey's book:
+ Apart from the three **Challenges**, the contents on this page is largely based upon Allen Downey's book:
  ~~~
  Downey, A.B., Brooks Jr, F.P., Peek, J., Todino, G., Strang, J., Robbins, A., Lamb, L., Hannah, E., Joy, W., Horton, M. and Cameron, D., 2012. Think Python 2e. Green Tea Press.
  ~~~
  which is publicly accessible as an open material at: http://greenteapress.com/thinkpython2/thinkpython2.pdf.
 
- The data used in the **Challenges** is from research project operated by Dr. Lu, Meng with details at:
+ Part of the data used in the **Challenges** is from research project operated by Dr. Lu, Meng with details at:
  ~~~
  Lu, M., Schmitz, O., de Hoogh, K., Kai, Q. and Karssenberg, D., 2020. Evaluation of different methods and data sources to optimise modelling of NO2 at a global scale. Environment international, 142, p.105856.
  ~~~
